@@ -7,12 +7,11 @@ li {
     list-style: none;
     
 }
-
-ul{
-    font-size:2rem;
-    font-family:Vegur, 'PT Sans', Verdana, sans-serif;
     
-}
 a{
+    font-size: 2rem;
     color: yellowgreen;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
