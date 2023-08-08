@@ -1,0 +1,13 @@
+html{
+    font-size: 10px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+}
+ul{
+    font-size: 4rem;
+    color: green;
+    font-family:Vegur, 'PT Sans', Verdana, sans-serif;;
+}
