@@ -5,12 +5,14 @@ html{
 li {
     display: inline;
     list-style: none;
+    
 }
+
 ul{
-    font-size: 4rem;
-    color: green;
-    font-family:Vegur, 'PT Sans', Verdana, sans-serif;;
+    font-size:2rem;
+    font-family:Vegur, 'PT Sans', Verdana, sans-serif;
+    
 }
 a{
-    font-family: Vegur, 'PT Sans', Verdana, sans-serif;;
+    color: yellowgreen;
 }
